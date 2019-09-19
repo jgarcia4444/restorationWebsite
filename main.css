@@ -1,0 +1,24 @@
+/* ID Selectors */
+
+#content {
+    margin-top: 5%;
+    border: 1px solid black;
+}
+
+#title {
+    margin-top: 5%;
+}
+
+#eye-catcher {
+    width: 30%;
+    margin: auto;
+}
+
+/* Class Selectors */
+.jumbotron {
+    background-color: rgba(0, 0, 0, 0.0);
+}
+
+.btn-lg {
+    margin-top: 5%;
+}
