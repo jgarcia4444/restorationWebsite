@@ -11,9 +11,9 @@ a {
 
 #content {
     margin: 10% auto;
-    border: 2px solid black;
-    box-shadow: 12px 9px 7px black;
-    background-color: rgba(0, 0, 0, 0.3);
+    /* border: 2px solid black; */
+    /* box-shadow: 12px 9px 7px black; */
+    /* background-color: rgba(0, 0, 0, 0.3); */
     border-radius: 7px;
     color: white;
 }
